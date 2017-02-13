@@ -1,0 +1,14 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Amen Ayach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
